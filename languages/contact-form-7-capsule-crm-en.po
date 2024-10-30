@@ -1,0 +1,317 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: contact-form-7-capsule-crm\n"
+"POT-Creation-Date: 2020-08-12 12:35+0200\n"
+"PO-Revision-Date: 2020-08-12 12:35+0200\n"
+"Last-Translator: \n"
+"Language-Team: contact-form-7-capsule-crm\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ../app\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-app.php:439
+msgid "Email Marketing"
+msgstr ""
+
+#: class-app.php:450 class-service.php:30 class-service.php:142
+msgid "Capsule CRM"
+msgstr ""
+
+#: class-helper.php:357
+msgid "The main contact for this case"
+msgstr ""
+
+#: class-helper.php:361 class-helper.php:386 class-helper.php:390
+msgid "The name of this case"
+msgstr ""
+
+#: class-helper.php:365
+msgid "The description of this case"
+msgstr ""
+
+#: class-helper.php:369
+msgid "The owner of this case"
+msgstr ""
+
+#: class-helper.php:374
+msgid "The status of this case"
+msgstr ""
+
+#: class-helper.php:382
+msgid "The opportunity to link this case to"
+msgstr ""
+
+#: class-helper.php:394 class-helper.php:459 class-helper.php:558
+msgid "Tags"
+msgstr ""
+
+#: class-helper.php:399 class-helper.php:464 class-helper.php:568
+msgid "Custom Fields"
+msgstr ""
+
+#: class-helper.php:410
+msgid "The main contact for this opportunity"
+msgstr ""
+
+#: class-helper.php:414
+msgid "The name of this opportunity"
+msgstr ""
+
+#: class-helper.php:418
+msgid "Description of the opportunity"
+msgstr ""
+
+#: class-helper.php:422 class-helper.php:563
+msgid "Owner"
+msgstr ""
+
+#: class-helper.php:427
+msgid "Milestone"
+msgstr ""
+
+#: class-helper.php:432
+msgid "Value"
+msgstr ""
+
+#: class-helper.php:436
+msgid "The expected close date of this opportunity"
+msgstr ""
+
+#: class-helper.php:440
+msgid "Probability"
+msgstr ""
+
+#: class-helper.php:444
+msgid "The time unit used by the duration field"
+msgstr ""
+
+#: class-helper.php:451
+msgid "The duration of this opportunity"
+msgstr ""
+
+#: class-helper.php:455
+msgid "The date this opportunity was closed"
+msgstr ""
+
+#: class-helper.php:475
+msgid "Party Type"
+msgstr ""
+
+#: class-helper.php:483
+msgid "First Name"
+msgstr ""
+
+#: class-helper.php:487
+msgid "Last Name"
+msgstr ""
+
+#: class-helper.php:491
+msgid "Title"
+msgstr ""
+
+#: class-helper.php:504
+msgid "Job Title"
+msgstr ""
+
+#: class-helper.php:508
+msgid "Organisation"
+msgstr ""
+
+#: class-helper.php:514
+msgid "Organisation Name"
+msgstr ""
+
+#: class-helper.php:519
+msgid "About"
+msgstr ""
+
+#: class-helper.php:524
+msgid "Street"
+msgstr ""
+
+#: class-helper.php:529
+msgid "City"
+msgstr ""
+
+#: class-helper.php:534
+msgid "State"
+msgstr ""
+
+#: class-helper.php:539
+msgid "Country"
+msgstr ""
+
+#: class-helper.php:544
+msgid "Zip Code"
+msgstr ""
+
+#: class-helper.php:549
+msgid "Phone Number"
+msgstr ""
+
+#: class-helper.php:554
+msgid "Email Address"
+msgstr ""
+
+#: class-helper.php:573
+msgid "Website URL"
+msgstr ""
+
+#: class-helper.php:577 class-helper.php:621
+msgid "Skype"
+msgstr ""
+
+#: class-helper.php:581
+msgid "Twitter"
+msgstr ""
+
+#: class-helper.php:585
+msgid "Linkedin"
+msgstr ""
+
+#: class-helper.php:589
+msgid "Facebook"
+msgstr ""
+
+#: class-helper.php:593
+msgid "Xing"
+msgstr ""
+
+#: class-helper.php:597
+msgid "Feed"
+msgstr ""
+
+#: class-helper.php:601
+msgid "Google Plus"
+msgstr ""
+
+#: class-helper.php:605
+msgid "Flickr"
+msgstr ""
+
+#: class-helper.php:609
+msgid "Github"
+msgstr ""
+
+#: class-helper.php:613
+msgid "Youtube"
+msgstr ""
+
+#: class-helper.php:617
+msgid "Instagram"
+msgstr ""
+
+#: class-helper.php:625
+msgid "Pinterest"
+msgstr ""
+
+#: class-service.php:127
+msgid "Error"
+msgstr ""
+
+#: class-service.php:128
+msgid "Invalid API Token."
+msgstr ""
+
+#: class-service.php:133
+msgid "Settings saved."
+msgstr ""
+
+#: class-service.php:139
+msgid ""
+"Capsule is a simple, flexible, and effective web-based CRM tool you can use "
+"for your small business. Capsule is a good tool to keep track of your "
+"contacts and companies you do business with, communications with them, sales "
+"opportunities, and what activities and tasks that need be done."
+msgstr ""
+
+#: class-service.php:141
+msgid "https://capsulecrm.com/"
+msgstr ""
+
+#: class-service.php:149
+msgid "Capsule CRM is active on this site."
+msgstr ""
+
+#: class-service.php:159
+msgid "Setup Integration"
+msgstr ""
+
+#: class-service.php:173
+msgid "API Token"
+msgstr ""
+
+#: class-service.php:184
+msgid "Save Changes"
+msgstr ""
+
+#: panel-page.php:24 panel-page.php:27
+msgid "Reset Cache"
+msgstr ""
+
+#: panel-page.php:28
+msgid ""
+"We are caching main endpoints like (Owners,Custom fields, Milestones, "
+"Parties, Tags) so we can limit the number of requests in the dashboard"
+msgstr ""
+
+#: panel-page.php:35
+msgid "Enable Logging"
+msgstr ""
+
+#: panel-page.php:51
+msgid "Click to copy to clipboard"
+msgstr ""
+
+#: panel-page.php:59 panel-page.php:81
+msgid "Party (Person/Organisation)"
+msgstr ""
+
+#: panel-page.php:60 panel-page.php:171
+msgid "Opportunity"
+msgstr ""
+
+#: panel-page.php:61 panel-page.php:262
+msgid "Case"
+msgstr ""
+
+#: panel-page.php:71
+msgid "Enable Sending Person/Organisation"
+msgstr ""
+
+#: panel-page.php:104 panel-page.php:194 panel-page.php:288
+msgid "- None -"
+msgstr ""
+
+#: panel-page.php:161
+msgid "Enable Sending Opportunity"
+msgstr ""
+
+#: panel-page.php:188
+msgid ""
+"Leave empty to assign it to already created party in the previous tab or "
+"Write the party id in the field"
+msgstr ""
+
+#: panel-page.php:252
+msgid "Enable Sending Case"
+msgstr ""
+
+#: panel-page.php:279
+msgid ""
+"Leave empty to assign it to already created party in the party tab or Write "
+"the party id in the field"
+msgstr ""
+
+#: panel-page.php:282
+msgid ""
+"Leave empty to assign it to already created opportunity in the previous tab "
+"or Write the opportunity id in the field"
+msgstr ""

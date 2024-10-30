@@ -1,0 +1,70 @@
+.capsule_crm_page #tabs{
+	position:relative;
+}
+.capsule_crm_page #tabs ul {
+border-bottom: 1px solid #aaa;
+	padding-bottom: 3px;
+}
+.capsule_crm_page #tabs ul li{
+	display: inline-block;
+	margin-right: 10px;
+}
+.capsule_crm_page #tabs ul li a{    padding: 10px;
+	background: #e4e4e4;
+	border: 1px solid #ccc;
+	text-decoration: none;
+	color: #000;
+	box-shadow:none;
+	outline:none;
+}
+
+.capsule_crm_page #tabs ul li.ui-state-active a{
+	background: #007cba;
+	color: #fff;
+}
+#contact-form-editor .capsule_crm_page .form-table th{
+	width: 170px;
+}
+.capsule_crm_page select,.capsule_crm_page input[type=text]{
+	width:60%;
+	max-width:60%;
+}
+.capsule_crm_page .multi_options {
+	margin-bottom: 20px;
+}
+.capsule_crm_page .multi_options label{
+	width:80px;
+	display: inline-block;
+	font-weight: 600;
+}
+.capsule-crm-float{
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	padding: 10px;
+	width: 100px;
+}
+.capsule-crm-float button{
+	cursor: pointer;
+	margin-right: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.capsule-crm-float h4{
+	margin: 0;
+	margin-bottom: 9px;
+	border-bottom: 1px solid #dfdfdf;
+	padding-bottom: 10px;
+}
+.cfcc_utp{
+	display: inline-block;
+    font-size: 15px;
+    text-decoration: none;
+    margin-bottom: 10px;
+    padding: 9px 15px;
+    background: #ba0000;
+    color: #fff;
+}
+.cfcc_utp:hover,.cfcc_utp:active,.cfcc_utp:focus{
+	color:#fff;
+}
